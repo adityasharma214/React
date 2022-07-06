@@ -9,3 +9,9 @@ Learning React Basics
 
 
 3) Functinal Component - React code required to render an unordered list (ul) to the page using functinal component. The list should contain 3 list items (li) with anything in them you want.
+
+4) Functional Component Practice - Create a functional component called MyInfo that returns the following UI:
+a. An hi with your name
+b. A paragraph with a little blurb about yourself 
+c. An ordered or unordered list of the top 3 vacation spots you'd like to visit
+Render an instance of that functional component to the browser
