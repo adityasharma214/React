@@ -21,3 +21,5 @@ Learning React Basics
 6) Parent Child Components - In index.js, I had rendered App.js, and App.js contains all the application flow.
 
 7) Adding CSS to parent Child Components
+
+8) JXS to Javascript and Back
