@@ -23,3 +23,5 @@ Learning React Basics
 7) Adding CSS to parent Child Components
 
 8) JXS to Javascript and Back
+
+9) Arrow Function
