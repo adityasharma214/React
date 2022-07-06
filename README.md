@@ -17,3 +17,5 @@ Learning React Basics
   Render an instance of that functional component to the browser
   
 5) Moving the functional component into a separate file.
+
+6) Parent Child Components - In index.js, I had rendered App.js, and App.js contains all the application flow.
