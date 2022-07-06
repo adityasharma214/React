@@ -29,3 +29,5 @@ Learning React Basics
 10) React Conditionals
 
 11) Declearing the styles inside a JavaScript variable and using it inline.
+
+12) Dynamic CSS adding to react element.
