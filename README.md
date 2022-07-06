@@ -15,3 +15,5 @@ Learning React Basics
   b. A paragraph with a little blurb about yourself 
   c. An ordered or unordered list of the top 3 vacation spots you'd like to visit
   Render an instance of that functional component to the browser
+  
+5) Moving the functional component into a separate file.
