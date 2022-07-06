@@ -6,5 +6,5 @@ Learning React Basics
 
 
 2) ReactDom and JSX. -  Fill in the boilerplate React code required to render an
- unordered list (<ul>) to the page. The list should contain 3 list items
- (<li>) with anything in them you want.
+ unordered list '(<ul>)' to the page. The list should contain 3 list items
+ '(<li>)' with anything in them you want.
