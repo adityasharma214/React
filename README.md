@@ -27,3 +27,5 @@ Learning React Basics
 9) Arrow Function
 
 10) React Conditionals
+
+11) Declearing the styles inside a JavaScript variable and using it inline.
