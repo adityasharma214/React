@@ -26,7 +26,7 @@ Learning React Basics
 
 9) Arrow Function
 
-10) React Conditionals
+10) React ConditionalsComp
 
 11) Declearing the styles inside a JavaScript variable and using it inline.
 
@@ -38,4 +38,6 @@ Learning React Basics
 
 15) Props and Styling Practice - IF some or other vaule in the div of props is not comming - Chaing the text to display none and also changing the color of below attributes.
 
-16) JavaScript Array ittrations.
+16) JavaScript Array ittrations. 
+
+17) Maping Components.
