@@ -43,3 +43,5 @@ Learning React Basics
 17) Maping Components.
 
 18) Maping Components - Exercise(Mapping product list using props)
+
+19) To do list using Mapping - Part 2
