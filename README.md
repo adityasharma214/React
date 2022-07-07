@@ -41,3 +41,5 @@ Learning React Basics
 16) JavaScript Array ittrations. 
 
 17) Maping Components.
+
+18) Maping Components - Exercise(Mapping product list using props)
