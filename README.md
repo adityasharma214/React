@@ -33,3 +33,5 @@ Learning React Basics
 12) Dynamic CSS adding to react element.
 
 13) To Do List Part - 1
+
+14) Understanding the Props - How props works, useful to create dynamic UI's. How to use Props with a product display example.
