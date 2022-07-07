@@ -35,3 +35,5 @@ Learning React Basics
 13) To Do List Part - 1 
 
 14) Understanding the Props - How props works, useful to create dynamic UI's. How to use Props with a product display example. (-> Props - Using Props to create product card)
+
+15) Props and Styling Practice - IF some or other vaule in the div of props is not comming - Chaing the text to display none and also changing the color of below attributes.
