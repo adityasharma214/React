@@ -49,3 +49,5 @@ Learning React Basics
 20) To Do List - If props is sending no data, then display None.
 
 21) Default Values to Props. (Using OR)
+
+22) Understanding the class components. (Fuctional Component -> Class component.  <-  ->)
