@@ -47,3 +47,5 @@ Learning React Basics
 19) To do list using Mapping - Part 2
 
 20) To Do List - If props is sending no data, then display None.
+
+21) Default Values to Props. (Using OR)
