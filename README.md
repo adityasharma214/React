@@ -51,3 +51,7 @@ Learning React Basics
 21) Default Values to Props. (Using OR)
 
 22) Understanding the class components. (Fuctional Component -> Class component.  <-  ->)
+
+23) Class Component Exercise(Converting three functional component to class component).
+
+24)
