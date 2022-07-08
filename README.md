@@ -45,3 +45,5 @@ Learning React Basics
 18) Maping Components - Exercise(Mapping product list using props)
 
 19) To do list using Mapping - Part 2
+
+20) To Do List - If props is sending no data, then display None.
