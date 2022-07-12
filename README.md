@@ -54,4 +54,4 @@ Learning React Basics
 
 23) Class Component Exercise(Converting three functional component to class component).
 
-24)
+24) Hooks
