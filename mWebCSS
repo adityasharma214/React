@@ -1,0 +1,118 @@
+@import "../../styles/inc/variables";
+
+.modelNotListed{
+  flex-basis: 100%;
+  width: 0;
+  color: $color-SeaBlue;
+  font-size: $secondary-font-12;
+  font-family: HelveticaNeue;
+  font-weight: normal;
+  width: 230px;
+  height: auto;
+  text-align: end;
+  @media only screen and (min-width: $screen-desk-min) {
+    cursor: pointer;
+    width: auto;
+        }
+        
+}
+
+.mobDotdWrapper {
+  float: left;
+  width: 100%;
+  text-align: center;
+  h3 {
+    font-family: HelveticaNeue;
+    font-weight: 600;
+    font-size: $secondary-font-16;
+    text-align: center;
+    line-height: normal;
+    margin-bottom: 7px;
+  }
+  p {
+    font-family: HelveticaNeue;
+    font-weight: 600;
+    font-size: $secondary-font-12;
+    text-align: center;
+    margin-bottom: 6px;
+    @media only screen and (min-width: $screen-desk-min) {
+      margin-bottom: 27px;
+    }
+  }
+  .mobCoverImg {
+    text-align: center;
+    @media only screen and (min-width: $screen-desk-min) {
+      text-align: right;
+    }
+    img {
+      max-width: 300px;
+    }
+  }
+  .selectMobCover {
+    .selectMobInner {
+      float: none;
+      display: flex;
+      gap: 16px;
+      @media only screen and (min-width: $screen-desk-min) {
+        float: left;
+      }
+      h5 {
+        font-size: $secondary-font-14;
+        color: #000;
+        font-family: HelveticaNeue-Bold;
+        font-weight: 500;
+        text-align: center;
+        margin-top: 8px;
+        @media only screen and (min-width: $screen-desk-min) {
+          margin-top: 58px;
+        }
+      }
+      span {
+        display: block;
+        font-size: $secondary-font-14;
+        color: #000;
+        font-family: HelveticaNeue;
+        font-weight: normal;
+        margin-top: 12px;
+        margin-bottom: 22px;
+        text-align: center;
+      }
+      select {
+        -webkit-appearance: none;
+        display: block;
+        width: 230px;
+        height: 40px;
+        line-height: normal;
+        border-radius: 0;
+        border: 1px solid #979797;
+        background: transparent;
+        box-shadow: none;
+        outline: none;
+        padding: 11px;
+        font-size: $secondary-font-12;
+        font-family: $font-montserrat;
+        background: url(https://images.bewakoof.com/web/down-2x-1539685344.png) no-repeat 96% 50%/20px;
+        color: rgba(#2d2d2d, 0.7);
+      }
+      .viewBtnMC {
+        flex-wrap: wrap;
+        background: $color-SeaBlue;
+        border-radius: 0;
+        border: 0;
+        color: #fff;
+        font-size: $secondary-font-16;
+        font-family: $font-montserrat;
+        text-transform: uppercase;
+        text-align: center;
+        width: 150px;
+        height: 40px;
+        flex: 0 0 160px;
+        &.inactive {
+          background: #FFC700;
+          pointer-events: none;
+        }
+      } 
+    }
+  }
+}
+
